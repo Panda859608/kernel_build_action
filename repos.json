@@ -1,0 +1,14 @@
+[
+  {
+    "kernelSource": {
+      "repo": "https://github.com/LineageOS/android_kernel_oneplus_sm8150.git",
+      "branch": "lineage-20"
+    },
+    "config": "sm8150_defconfig",
+    "arch": "arm64",
+    "flags": [
+      "CONFIG_MODULE_SIG=n",
+      "CONFIG_MODULE_SIG_FORCE=n"
+    ]
+  }
+]
